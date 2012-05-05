@@ -17,3 +17,9 @@ While The Goldilocks Approach as written in CSS is pretty cool, I intend to make
 * Install Compass for some instant on Sass Awesome
 * Install Sinatra for bootstrap server environment 
 * Probably convert template environment to Slim cause it rocks
+
+##Versioning updates
+Until I can get the Wiki set up, here goes
+
+### v0.0.0.2
+Updated readme file, restructured application structure and installed Sinatra
